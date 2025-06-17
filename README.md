@@ -29,8 +29,8 @@ Welcome to the official repository for my notes, learnings, and shared resources
 
 -----
 
-imagegs:
-#Semantic-kernel:
+#####imagegs:
+###Semantic-kernel:
 ![IMG-20250607-WA0157](https://github.com/user-attachments/assets/f3396207-0a1d-47a3-9486-cfeb413ce936)
 ![IMG-20250607-WA0156](https://github.com/user-attachments/assets/0b8112cd-7ce4-4f3d-a65b-0e0e558d1ea9)
 ![IMG-20250607-WA0155](https://github.com/user-attachments/assets/e784bd70-fe9e-4f56-8b32-1b82f80748c4)
@@ -42,13 +42,13 @@ imagegs:
 ![IMG-20250607-WA0149](https://github.com/user-attachments/assets/762c5816-bb83-4164-a7d1-fa23c5d3b766)
 ![IMG-20250607-WA0158](https://github.com/user-attachments/assets/3cd0759a-4fa5-43ca-8126-457ce3613aed)
 
-#autogen:
+##autogen:
 ![IMG-20250617-WA0053](https://github.com/user-attachments/assets/e822377a-c7ca-4f9d-9225-b042247b6774)
 
 ![IMG-20250607-WA0147](https://github.com/user-attachments/assets/2a70835f-580d-4694-b009-4d2d013ae71b)
 ![IMG-20250607-WA0148](https://github.com/user-attachments/assets/0eab5b30-c3fd-4289-806e-eba9d0ad8453)
 
-#ai-agents-from-scratch:
+###ai-agents-from-scratch:
 
 ![IMG-20250607-WA0133](https://github.com/user-attachments/assets/2b4124bf-fb56-49a9-bc08-1df4ebc3d25d)
 ![IMG-20250607-WA0132](https://github.com/user-attachments/assets/3106ece9-e2bc-49a9-b6e5-2ad71a99a0fd)
