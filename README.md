@@ -26,7 +26,11 @@ Welcome to the official repository for my notes, learnings, and shared resources
 | `ai-agents-from-scratch/` | Fundamentals, best practices, and personal notes |
 | `slides-and-certificates/` | Certificate of Appreciation & speaker slides (if permitted) |
 | `resources.md` | Curated list of official docs, blogs, videos, and tools |
-![IMG-20250607-WA0156](https://github.com/user-attachments/assets/c1dd78a3-37d5-4984-9996-2356d1016d25)![IMG-20250607-WA0158](https://github.com/user-attachments/assets/674586d5-7065-4c71-879a-0f452548e73f)
+
+-----
+
+![IMG-20250607-WA0156](https://github.com/user-attachments/assets/c1dd78a3-37d5-4984-9996-2356d1016d25)!
+[IMG-20250607-WA0158](https://github.com/user-attachments/assets/674586d5-7065-4c71-879a-0f452548e73f)
 ![IMG-20250607-WA0157](https://github.com/user-attachments/assets/d63a6601-3de3-4db6-9906-252ed6590707)
 ![IMG-20250607-WA0155](https://github.com/user-attachments/assets/dbc08cfc-3cf9-4a0d-a573-e2275feb7afa)
 
@@ -36,8 +40,6 @@ Welcome to the official repository for my notes, learnings, and shared resources
 ![IMG-20250607-WA0151](https://github.com/user-attachments/assets/d4c4ac87-14a6-4d11-ad13-60f1ccff1ff2)
 ![IMG-20250607-WA0150](https://github.com/user-attachments/assets/2a88f67e-bb02-49f1-a616-3797f4e1aa8f)
 ![IMG-20250607-WA0149](https://github.com/user-attachments/assets/500c88c2-b9e4-49f7-a004-64dd2dc61983)
-
------
 
 ## 💡 Goals of This Repo
 
