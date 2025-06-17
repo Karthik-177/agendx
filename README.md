@@ -1,4 +1,4 @@
-![IMG-20250607-WA0154](https://github.com/user-attachments/assets/669b8261-c35c-4d07-a4cd-621c2fbe53af)# 🤖 AgentX 2025 – Microsoft AI Innovators Hub | Resources & Learnings
+# 🤖 AgentX 2025 – Microsoft AI Innovators Hub | Resources & Learnings
 
 Welcome to the official repository for my notes, learnings, and shared resources from **AgentX 2025**, held at the **Microsoft Campus, Hyderabad**. This amazing event was powered by **Microsoft AI Innovators Hub** and **Global AI Hyderabad**, and focused on the future of **Autonomous AI Agents**.
 
@@ -29,17 +29,19 @@ Welcome to the official repository for my notes, learnings, and shared resources
 
 -----
 
-![IMG-20250607-WA0156](https://github.com/user-attachments/assets/c1dd78a3-37d5-4984-9996-2356d1016d25)!
-[IMG-20250607-WA0158](https://github.com/user-attachments/assets/674586d5-7065-4c71-879a-0f452548e73f)
-![IMG-20250607-WA0157](https://github.com/user-attachments/assets/d63a6601-3de3-4db6-9906-252ed6590707)
-![IMG-20250607-WA0155](https://github.com/user-attachments/assets/dbc08cfc-3cf9-4a0d-a573-e2275feb7afa)
+imagegs:
+emantic-kernel:
+![IMG-20250607-WA0157](https://github.com/user-attachments/assets/f3396207-0a1d-47a3-9486-cfeb413ce936)
+![IMG-20250607-WA0156](https://github.com/user-attachments/assets/0b8112cd-7ce4-4f3d-a65b-0e0e558d1ea9)
+![IMG-20250607-WA0155](https://github.com/user-attachments/assets/e784bd70-fe9e-4f56-8b32-1b82f80748c4)
+![IMG-20250607-WA0154](https://github.com/user-attachments/assets/229a85e3-37a7-45ff-aac8-71c138e210be)
+![IMG-20250607-WA0153](https://github.com/user-attachments/assets/92d4e605-ad04-4469-a5d8-cadfe83abec4)
+![IMG-20250607-WA0152](https://github.com/user-attachments/assets/59ad5e80-eeb9-43b8-a320-7bedb6e75bb8)
+![IMG-20250607-WA0151](https://github.com/user-attachments/assets/0a84ec9f-34d7-47e7-916e-d7d2de211043)
+![IMG-20250607-WA0150](https://github.com/user-attachments/assets/5528e168-1b9f-4cf9-a277-0d9a7310e214)
+![IMG-20250607-WA0149](https://github.com/user-attachments/assets/762c5816-bb83-4164-a7d1-fa23c5d3b766)
+![IMG-20250607-WA0158](https://github.com/user-attachments/assets/3cd0759a-4fa5-43ca-8126-457ce3613aed)
 
-![IMG-20250607-WA0149](https://github.com/user-attachments/assets/dcde652e-29f0-4df6-9791-686881d3498f)
-![IMG-20250607-WA0153](https://github.com/user-attachments/assets/e3e07617-d878-4cae-8255-aafda5589558)
-![IMG-20250607-WA0152](https://github.com/user-attachments/assets/7e6b9c6b-d2b1-4630-aa59-7b7b953ba484)
-![IMG-20250607-WA0151](https://github.com/user-attachments/assets/d4c4ac87-14a6-4d11-ad13-60f1ccff1ff2)
-![IMG-20250607-WA0150](https://github.com/user-attachments/assets/2a88f67e-bb02-49f1-a616-3797f4e1aa8f)
-![IMG-20250607-WA0149](https://github.com/user-attachments/assets/500c88c2-b9e4-49f7-a004-64dd2dc61983)
 
 ## 💡 Goals of This Repo
 
