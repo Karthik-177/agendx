@@ -102,9 +102,8 @@ Thanks to:
 
 ## 📩 Connect With Me
 
-Feel free to contribute, open issues, or reach out via [LinkedIn]([(https://www.linkedin.com/in/polkam-jai-karthik/)]) if you'd like to collaborate or learn together!
+Feel free to contribute, open issues, or reach out via [LinkedIn](https://www.linkedin.com/in/polkam-jai-karthik/) if you'd like to collaborate or learn together!
 
----
 
 ### 🚀 Let’s build the future of AI — one agent at a time!
 
